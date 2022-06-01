@@ -1,0 +1,515 @@
+#EXTM3U url-tvg="http://192.168.1.114:34400/xmltv/xteve.xml" x-tvg-url="http://192.168.1.114:34400/xmltv/xteve.xml"
+#EXTINF:0 channelID="x-ID.0" tvg-chno="1000" tvg-name="Rotana Comedy (1080p) [Geo-blocked]" tvg-id="1000" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rotana-comedy-sa.png" group-title="Comedy",Rotana Comedy (1080p) [Geo-blocked]
+http://192.168.1.114:34400/stream/20bb744ff534b81682cd76c6800f2f00
+#EXTINF:0 channelID="x-ID.2" tvg-chno="1002" tvg-name="Al Jazeera Arabic (1080p)" tvg-id="1002" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/512px-Aljazeera.svg.png" group-title="News",Al Jazeera Arabic (1080p)
+http://192.168.1.114:34400/stream/267d38d2edda8153521437c603358197
+#EXTINF:0 channelID="x-ID.3" tvg-chno="1003" tvg-name="Al Jazeera Documentary (270p) [Geo-blocked]" tvg-id="1003" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="News",Al Jazeera Documentary (270p) [Geo-blocked]
+http://192.168.1.114:34400/stream/a6a936a0cc030146263eb73d52e12802
+#EXTINF:0 channelID="x-ID.4" tvg-chno="1004" tvg-name="Al Jazeera English (1080p)" tvg-id="1004" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
+http://192.168.1.114:34400/stream/5dd1a411d38fe801dfc421b256d93aa8
+#EXTINF:0 channelID="x-ID.5" tvg-chno="1005" tvg-name="Al Jazeera Mubasher (1080p)" tvg-id="1005" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="News",Al Jazeera Mubasher (1080p)
+http://192.168.1.114:34400/stream/774690617bec6d73f7370a29fa554c97
+#EXTINF:0 channelID="x-ID.6" tvg-chno="1006" tvg-name="Alaraby TV (1080p)" tvg-id="1006" tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="News",Alaraby TV (1080p)
+http://192.168.1.114:34400/stream/6fca9a7c2ab38a411682021fa10edf40
+#EXTINF:0 channelID="x-ID.7" tvg-chno="1007" tvg-name="BBC Arabic (720p)" tvg-id="1007" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (720p)
+http://192.168.1.114:34400/stream/98d4617ad1610ef4aa2ba1bdeb2ce1c7
+#EXTINF:0 channelID="x-ID.8" tvg-chno="1008" tvg-name="BBC News HD (720p) [Geo-blocked]" tvg-id="1008" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png" group-title="News",BBC News HD (720p) [Geo-blocked]
+http://192.168.1.114:34400/stream/84188928397ae3fb4a7c237150d35dba
+#EXTINF:0 channelID="x-ID.9" tvg-chno="1009" tvg-name="CGTN (576p)" tvg-id="1009" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN (576p)
+http://192.168.1.114:34400/stream/bae03a503592afb5fbb0210374e67812
+#EXTINF:0 channelID="x-ID.10" tvg-chno="1010" tvg-name="CGTN Arabic (576p) [Not 24/7]" tvg-id="1010" tvg-logo="https://i.imgur.com/Rlsmxug.png" group-title="News",CGTN Arabic (576p) [Not 24/7]
+http://192.168.1.114:34400/stream/29b898e302d5fd33c2c6e2bd160f56ee
+#EXTINF:0 channelID="x-ID.11" tvg-chno="1011" tvg-name="DW Arabic (1080p)" tvg-id="1011" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Arabic (1080p)
+http://192.168.1.114:34400/stream/75fc576698e0268df8b093fc68fbf8fa
+#EXTINF:0 channelID="x-ID.15" tvg-chno="1015" tvg-name="NHK World Japan (1080p)" tvg-id="1015" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World Japan (1080p)
+http://192.168.1.114:34400/stream/0214feb1d973841597958d11e6b84c49
+#EXTINF:0 channelID="x-ID.17" tvg-chno="1017" tvg-name="RT Arabic (1080p) [Geo-blocked]" tvg-id="1017" tvg-logo="https://content.osn.com/logo/channel/cropped/RUS.png" group-title="News",RT Arabic (1080p) [Geo-blocked]
+http://192.168.1.114:34400/stream/30e77e9a4f2764bed5f8841a83679961
+#EXTINF:0 channelID="x-ID.18" tvg-chno="1018" tvg-name="RT News (1080p) [Geo-blocked]" tvg-id="1018" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News",RT News (1080p) [Geo-blocked]
+http://192.168.1.114:34400/stream/17c220bb38bc96b3326e05fd27557110
+#EXTINF:0 channelID="x-ID.19" tvg-chno="1019" tvg-name="Sky News Arabia (720p) [Not 24/7]" tvg-id="1019" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_News_Arabia_logo.png/512px-Sky_News_Arabia_logo.png" group-title="News",Sky News Arabia (720p) [Not 24/7]
+http://192.168.1.114:34400/stream/066265490d6b4e47f92be1bf539c04ee
+#EXTINF:0 channelID="x-ID.23" tvg-chno="1023" tvg-name="UN Web TV (540p)" tvg-id="1023" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="News",UN Web TV (540p)
+http://192.168.1.114:34400/stream/5ddefff059e4f59cafcec98deec3ab9c
+#EXTINF:0 channelID="x-ID.24" tvg-chno="1024" tvg-name="MBC Drama KSA (1080p)" tvg-id="1024" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Series",MBC Drama KSA (1080p)
+http://192.168.1.114:34400/stream/a564ff071e20ca86f0d476ea857edc8f
+#EXTINF:0 channelID="x-ID.26" tvg-chno="1026" tvg-name="Rotana Drama (1080p) [Geo-blocked]" tvg-id="1026" tvg-logo="https://media.elcinema.com/tvguide/1147_1.png" group-title="Series",Rotana Drama (1080p) [Geo-blocked]
+http://192.168.1.114:34400/stream/22330a9cbc350f4ed2f1412cac00b829
+#EXTINF:0 channelID="x-ID.28" tvg-chno="1028" tvg-name="ABC News (1080p)" tvg-id="1028" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="News",ABC News (1080p)
+http://192.168.1.114:34400/stream/c955c5e02671fec6cc101934fc4beb30
+#EXTINF:0 channelID="x-ID.29" tvg-chno="1029" tvg-name="ABC News Live 1 (720p)" tvg-id="1029" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="News",ABC News Live 1 (720p)
+http://192.168.1.114:34400/stream/50088033934e0084f09c978c7bbf4eed
+#EXTINF:0 channelID="x-ID.30" tvg-chno="1030" tvg-name="ABC News Live 2 (720p)" tvg-id="1030" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="News",ABC News Live 2 (720p)
+http://192.168.1.114:34400/stream/7d65b489faad374070ff8608af52e443
+#EXTINF:0 channelID="x-ID.31" tvg-chno="1031" tvg-name="ABC News Live 3 (720p)" tvg-id="1031" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="News",ABC News Live 3 (720p)
+http://192.168.1.114:34400/stream/4c2a7dd64de90d87f2520e15a6460300
+#EXTINF:0 channelID="x-ID.32" tvg-chno="1032" tvg-name="ABC News Live 4 (720p)" tvg-id="1032" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="News",ABC News Live 4 (720p)
+http://192.168.1.114:34400/stream/3027fdd23b8c18d1cf1fa34389df95f3
+#EXTINF:0 channelID="x-ID.33" tvg-chno="1033" tvg-name="ABC News Live 5 (720p)" tvg-id="1033" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="News",ABC News Live 5 (720p)
+http://192.168.1.114:34400/stream/2c9d96f6c55a35a515bd25b7006bf883
+#EXTINF:0 channelID="x-ID.34" tvg-chno="1034" tvg-name="ABC News Live 6 (720p)" tvg-id="1034" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="News",ABC News Live 6 (720p)
+http://192.168.1.114:34400/stream/e20dc4b827bee2af534e2f1abe7c0945
+#EXTINF:0 channelID="x-ID.35" tvg-chno="1035" tvg-name="ABC News Live 7 (720p)" tvg-id="1035" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="News",ABC News Live 7 (720p)
+http://192.168.1.114:34400/stream/da93a8e5c1afa3b23849bcad6f022cfc
+#EXTINF:0 channelID="x-ID.36" tvg-chno="1036" tvg-name="ABC News Live 8 (720p)" tvg-id="1036" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="News",ABC News Live 8 (720p)
+http://192.168.1.114:34400/stream/fc0f2c04ce7670aee887222164b9bf5b
+#EXTINF:0 channelID="x-ID.37" tvg-chno="1037" tvg-name="ABC News Live 9 (720p)" tvg-id="1037" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="News",ABC News Live 9 (720p)
+http://192.168.1.114:34400/stream/b51edb19641703f9715c68e8765748d4
+#EXTINF:0 channelID="x-ID.38" tvg-chno="1038" tvg-name="ABC News Live 10 (720p)" tvg-id="1038" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="News",ABC News Live 10 (720p)
+http://192.168.1.114:34400/stream/57fdc87be904d7788178813cc3363679
+#EXTINF:0 channelID="x-ID.39" tvg-chno="1039" tvg-name="ABC News New York NY (WABC-TV) (720p)" tvg-id="1039" tvg-logo="" group-title="News",ABC News New York NY (WABC-TV) (720p)
+http://192.168.1.114:34400/stream/5299a2b45681e1d1ca22cd87d659af36
+#EXTINF:0 channelID="x-ID.40" tvg-chno="1040" tvg-name="AFV (720p)" tvg-id="1040" tvg-logo="https://i.imgur.com/lG3OHxA.png" group-title="Comedy",AFV (720p)
+http://192.168.1.114:34400/stream/d0ad7b88fcde517022670ad7ae046976
+#EXTINF:0 channelID="x-ID.42" tvg-chno="1042" tvg-name="FilmRise Family (720p)" tvg-id="1042" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L._SY355_.png" group-title="Family",FilmRise Family (720p)
+http://192.168.1.114:34400/stream/d88c2f2fa6a44c029c2fc450a10b2c96
+#EXTINF:0 channelID="x-ID.44" tvg-chno="1044" tvg-name="Al Jazeera English (1080p)" tvg-id="1044" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
+http://192.168.1.114:34400/stream/53a4c58b2eaf223c13509ea6a88a6d33
+#EXTINF:0 channelID="x-ID.47" tvg-chno="1047" tvg-name="BBC News HD (720p) [Geo-blocked]" tvg-id="1047" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png" group-title="News",BBC News HD (720p) [Geo-blocked]
+http://192.168.1.114:34400/stream/0e8809a93b9d52a7cd66b89fcea69b87
+#EXTINF:0 channelID="x-ID.51" tvg-chno="1051" tvg-name="CBC News (720p)" tvg-id="1051" tvg-logo="https://i.imgur.com/6TmWzvk.jpg" group-title="News",CBC News (720p)
+http://192.168.1.114:34400/stream/a8aec1971b8b16b270b4bac1ea87a81d
+#EXTINF:0 channelID="x-ID.52" tvg-chno="1052" tvg-name="CBC News (XUMO) (720p)" tvg-id="1052" tvg-logo="https://i.imgur.com/6TmWzvk.jpg" group-title="News",CBC News (XUMO) (720p)
+http://192.168.1.114:34400/stream/932ccdaa938f5e3ac254aae2df8c6eda
+#EXTINF:0 channelID="x-ID.54" tvg-chno="1054" tvg-name="CBS News (720p)" tvg-id="1054" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png" group-title="News",CBS News (720p)
+http://192.168.1.114:34400/stream/39d4f6ea90a100fcdd443075ea17dd25
+#EXTINF:0 channelID="x-ID.64" tvg-chno="1064" tvg-name="Rotana Cinema (1080p)" tvg-id="1064" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="Movies",Rotana Cinema (1080p)
+http://192.168.1.114:34400/stream/51942da518e3e3d6e1d241a2a448a13b
+#EXTINF:0 channelID="x-ID.65" tvg-chno="1065" tvg-name="Rotana Cinema KSA (1080p)" tvg-id="1065" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" group-title="Movies",Rotana Cinema KSA (1080p)
+http://192.168.1.114:34400/stream/04153f66d887c5aedc9cb85d8b5bfefa
+#EXTINF:0 channelID="x-ID.67" tvg-chno="1067" tvg-name="CGTN (576p)" tvg-id="1067" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN (576p)
+http://192.168.1.114:34400/stream/7ac27322f212b75902463ee213a20990
+#EXTINF:0 channelID="x-ID.68" tvg-chno="1068" tvg-name="Cheddar News (1080p)" tvg-id="1068" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607766d942e7e542aa73ddf2" group-title="News",Cheddar News (1080p)
+http://192.168.1.114:34400/stream/e32534b7468e2dbc27f49f5d2291f1df
+#EXTINF:0 channelID="x-ID.69" tvg-chno="1069" tvg-name="Cinemax [Geo-blocked]" tvg-id="1069" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="Movies",Cinemax [Geo-blocked]
+http://192.168.1.114:34400/stream/5312dcee243216ecb0181c771f2b17b6
+#EXTINF:0 channelID="x-ID.71" tvg-chno="1071" tvg-name="Cinemax East (360p) [Geo-blocked]" tvg-id="1071" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="Movies",Cinemax East (360p) [Geo-blocked]
+http://192.168.1.114:34400/stream/5312dcee243216ecb0181c771f2b17b6
+#EXTINF:0 channelID="x-ID.77" tvg-chno="1077" tvg-name="Comedy Dynamics (1080p)" tvg-id="1077" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ComedyDynamics_640x640.png" group-title="Comedy",Comedy Dynamics (1080p)
+http://192.168.1.114:34400/stream/56505d53757a591662738aa468050941
+#EXTINF:0 channelID="x-ID.80" tvg-chno="1080" tvg-name="DW English (1080p)" tvg-id="1080" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p)
+http://192.168.1.114:34400/stream/d169b8c57c8eac38c3380362349b38e0
+#EXTINF:0 channelID="x-ID.85" tvg-chno="1085" tvg-name="Fox News Channel (720p)" tvg-id="1085" tvg-logo="https://i.imgur.com/FJihT0Q.png" group-title="News",Fox News Channel (720p)
+http://192.168.1.114:34400/stream/e45270f577f30923df717c4166cf1ae6
+#EXTINF:0 channelID="x-ID.86" tvg-chno="1086" tvg-name="FOX News Now (720p)" tvg-id="1086" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now (720p)
+http://192.168.1.114:34400/stream/bed7809d38ff87a561e7700974a48e21
+#EXTINF:0 channelID="x-ID.90" tvg-chno="1090" tvg-name="Rotana Classic (1080p)" tvg-id="1090" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/rotana-classic.png" group-title="Classic",Rotana Classic (1080p)
+http://192.168.1.114:34400/stream/c13f794716b7883cd4fe69bb80af4afc
+#EXTINF:0 channelID="x-ID.108" tvg-chno="1108" tvg-name="MBC Drama USA (1080p)" tvg-id="1108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/MBC_Drama_TV_Channel_Logo.png" group-title="Series",MBC Drama USA (1080p)
+http://192.168.1.114:34400/stream/d149fd041f27017358de62db32f973e0
+#EXTINF:0 channelID="x-ID.111" tvg-chno="1111" tvg-name="NBC News Now (1080p)" tvg-id="1111" tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="News",NBC News Now (1080p)
+http://192.168.1.114:34400/stream/f8428faa546691892703fab69cb63841
+#EXTINF:0 channelID="x-ID.112" tvg-chno="1112" tvg-name="NBC News Now Event 1 (720p)" tvg-id="1112" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="News",NBC News Now Event 1 (720p)
+http://192.168.1.114:34400/stream/2f7fff05f14f8a37d3096a5bdd406900
+#EXTINF:0 channelID="x-ID.113" tvg-chno="1113" tvg-name="NBC News Now Event 2 (360p)" tvg-id="1113" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="News",NBC News Now Event 2 (360p)
+http://192.168.1.114:34400/stream/954b5684a99a4df3e406a0644ae8fa61
+#EXTINF:0 channelID="x-ID.114" tvg-chno="1114" tvg-name="NBC News Now Event 3 (460p)" tvg-id="1114" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="News",NBC News Now Event 3 (460p)
+http://192.168.1.114:34400/stream/59972fef7ba91ab264f4d4eead718f79
+#EXTINF:0 channelID="x-ID.115" tvg-chno="1115" tvg-name="NBC News Now Event 4 (720p)" tvg-id="1115" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="News",NBC News Now Event 4 (720p)
+http://192.168.1.114:34400/stream/680c5d0eb0d1431b16c3a42c6f0e4bf5
+#EXTINF:0 channelID="x-ID.118" tvg-chno="1118" tvg-name="News 12 New York (1080p)" tvg-id="1118" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c57ad92cd1774a1091752" group-title="News",News 12 New York (1080p)
+http://192.168.1.114:34400/stream/9b8fd77e249721055b0bec3a84fdb953
+#EXTINF:0 channelID="x-ID.119" tvg-chno="1119" tvg-name="Newsmax (1080p)" tvg-id="1119" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Newsmax2021.svg/512px-Newsmax2021.svg.png" group-title="News",Newsmax (1080p)
+http://192.168.1.114:34400/stream/2405404d62c268fd0ed43056511c2527
+#EXTINF:0 channelID="x-ID.122" tvg-chno="1122" tvg-name="Newsy (1080p)" tvg-id="1122" tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="News",Newsy (1080p)
+http://192.168.1.114:34400/stream/f691e2b1555c22514394c267d7809436
+#EXTINF:0 channelID="x-ID.123" tvg-chno="1123" tvg-name="Newsy Top Stories (720p)" tvg-id="1123" tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="News",Newsy Top Stories (720p)
+http://192.168.1.114:34400/stream/7eeb204e778ea537c25172e576b20cdb
+#EXTINF:0 channelID="x-ID.124" tvg-chno="1124" tvg-name="NHK World Japan (1080p)" tvg-id="1124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World Japan (1080p)
+http://192.168.1.114:34400/stream/1b8dea10edfdd81667f818e9c6473d1d
+#EXTINF:0 channelID="x-ID.135" tvg-chno="1135" tvg-name="Pluto TV CBSN New York NY (720p)" tvg-id="1135" tvg-logo="https://images.pluto.tv/channels/5dc48170e280c80009a861ab/colorLogoPNG.png" group-title="News",Pluto TV CBSN New York NY (720p)
+http://192.168.1.114:34400/stream/36052a3639392c71869de44c60c86ee4
+#EXTINF:0 channelID="x-ID.143" tvg-chno="1143" tvg-name="Pluto TV CNN (360p)" tvg-id="1143" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="News",Pluto TV CNN (360p)
+http://192.168.1.114:34400/stream/da98ce961065b7cbe52c523e266d95e5
+#EXTINF:0 channelID="x-ID.145" tvg-chno="1145" tvg-name="Pluto TV Comedy Central" tvg-id="1145" tvg-logo="" group-title="Comedy",Pluto TV Comedy Central
+http://192.168.1.114:34400/stream/348e51e9adac1c5ade8cd1394416ec67
+#EXTINF:0 channelID="x-ID.170" tvg-chno="1170" tvg-name="Redbox 2: Comedy (1080p)" tvg-id="1170" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Comedy",Redbox 2: Comedy (1080p)
+http://192.168.1.114:34400/stream/4d475fc5a293fbd195e1e074a9af843d
+#EXTINF:0 channelID="x-ID.185" tvg-chno="1185" tvg-name="UN Web TV (540p)" tvg-id="1185" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="News",UN Web TV (540p)
+http://192.168.1.114:34400/stream/77558e21e8bb81351d365a7082afa60b
+#EXTINF:0 channelID="x-ID.220" tvg-chno="1220" tvg-name="Thikrayat TV (1080p) [Not 24/7]" tvg-id="1220" tvg-logo="https://i.imgur.com/fAkScnI.png" group-title="Classic",Thikrayat TV (1080p) [Not 24/7]
+http://192.168.1.114:34400/stream/b8ba3c70f70edebc1f223c7bbe22842f
+#EXTINF:0 channelID="x-ID.247" tvg-chno="1247" tvg-name="STIRR Family (720p)" tvg-id="1247" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/152a4f21-0f03-4d21-b72a-76f4c35913d7-large16x9_STIRR_0821_STIRRFamily_1920x1080_EPG.png" group-title="Classic",STIRR Family (720p)
+http://192.168.1.114:34400/stream/ba83f0dceaac0c144cab7fcf13e355c9
+#EXTINF:0 channelID="x-ID.278" tvg-chno="1278" tvg-name="MBC 2" tvg-id="1278" tvg-logo="https://i.imgur.com/GLltP2T.png" group-title="General",MBC 2
+http://192.168.1.114:34400/stream/64373007070b1a7238309dd7d127e055
+#EXTINF:0 channelID="x-ID.279" tvg-chno="1279" tvg-name="MBC 4" tvg-id="1279" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="General",MBC 4
+http://192.168.1.114:34400/stream/e16d391de85904af55837366a3cb699f
+#EXTINF:0 channelID="x-ID.280" tvg-chno="1280" tvg-name="MBC Bollywood (1080p) [Geo-blocked]" tvg-id="1280" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="General",MBC Bollywood (1080p) [Geo-blocked]
+http://192.168.1.114:34400/stream/0eaf3edaafbf3f4e4c5fae57fd456e96
+#EXTINF:0 channelID="x-ID.283" tvg-chno="1283" tvg-name="SBC (1080p) [Not 24/7]" tvg-id="1283" tvg-logo="https://i.imgur.com/yazkC4P.png" group-title="General",SBC (1080p) [Not 24/7]
+http://192.168.1.114:34400/stream/378af63f5f9521cdc25e145b4181ef67
+#EXTINF:0 channelID="x-ID.291" tvg-chno="1291" tvg-name="Now This (720p)" tvg-id="1291" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Now_This_Logo_White.svg/512px-Now_This_Logo_White.svg.png" group-title="General",Now This (720p)
+http://192.168.1.114:34400/stream/895fecaa9ad444cf6800b86a572a04c4
+#EXTINF:0 channelID="x-ID.292" tvg-chno="1292" tvg-name="Now This (XUMO) (720p)" tvg-id="1292" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Now_This_Logo_White.svg/512px-Now_This_Logo_White.svg.png" group-title="General",Now This (XUMO) (720p)
+http://192.168.1.114:34400/stream/965fa3860f59c3163d1338e480d11246
+#EXTINF:0 channelID="x-ID.297" tvg-chno="1297" tvg-name="TBS East (720p) [Geo-blocked]" tvg-id="1297" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="General",TBS East (720p) [Geo-blocked]
+http://192.168.1.114:34400/stream/ed13958f4bd50b7a8f7071e21ffb013a
+#EXTINF:0 channelID="x-ID.298" tvg-chno="1298" tvg-name="TBS West (720p) [Geo-blocked]" tvg-id="1298" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="General",TBS West (720p) [Geo-blocked]
+http://192.168.1.114:34400/stream/26e684791748fc58980e2a426010255b
+#EXTINF:0 channelID="x-ID.300" tvg-chno="1300" tvg-name="TNT East (720p) [Geo-blocked]" tvg-id="1300" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="General",TNT East (720p) [Geo-blocked]
+http://192.168.1.114:34400/stream/d25eec83d38df355d8515d12983867e3
+#EXTINF:0 channelID="x-ID.301" tvg-chno="1301" tvg-name="TNT West (720p) [Geo-blocked]" tvg-id="1301" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="General",TNT West (720p) [Geo-blocked]
+http://192.168.1.114:34400/stream/7d7c32645f23689e597e62e121e0e69c
+#EXTINF:0 channelID="x-ID.305" tvg-chno="1305" tvg-name="WABC-DT2 (Localish)" tvg-id="1305" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/localish.png" group-title="Undefined",WABC-DT2 (Localish)
+http://192.168.1.114:34400/stream/38ceef1a874035229513e93069190160
+#EXTINF:0 channelID="x-ID.307" tvg-chno="1307" tvg-name="CBC (720p) [Not 24/7]" tvg-id="1307" tvg-logo="https://i.imgur.com/9pTNcrk.png" group-title="Undefined",CBC (720p) [Not 24/7]
+http://192.168.1.114:34400/stream/22f810c5309ee8ea1f59e3a276431956
+#EXTINF:0 channelID="x-ID.315" tvg-chno="1315" tvg-name="BBC Arabic (720p)" tvg-id="1315" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (720p)
+http://192.168.1.114:34400/stream/9ec1afb3d81b46ca01ddf7eda54ed320
+#EXTINF:0 channelID="x-ID.317" tvg-chno="1317" tvg-name="CGTN (576p)" tvg-id="1317" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN (576p)
+http://192.168.1.114:34400/stream/28a41c362c1e38fc0f5753563530d40d
+#EXTINF:0 channelID="x-ID.318" tvg-chno="1318" tvg-name="CGTN Arabic (576p) [Not 24/7]" tvg-id="1318" tvg-logo="https://i.imgur.com/Rlsmxug.png" group-title="News",CGTN Arabic (576p) [Not 24/7]
+http://192.168.1.114:34400/stream/97e9d11d962315d122202cd0145bea72
+#EXTINF:0 channelID="x-ID.324" tvg-chno="1324" tvg-name="National Geographic Abu Dhabi (1080p)" tvg-id="1324" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/512px-Nat_geo_channel_abu_dhabi.png" group-title="Documentary",National Geographic Abu Dhabi (1080p)
+http://192.168.1.114:34400/stream/3a518d74c8ba69c74434785509886c9b
+#EXTINF:0 channelID="x-ID.327" tvg-chno="1327" tvg-name="MBC 2" tvg-id="1327" tvg-logo="https://i.imgur.com/GLltP2T.png" group-title="General",MBC 2
+http://192.168.1.114:34400/stream/1cf7e6c00071549a332adc252122f6ad
+#EXTINF:0 channelID="x-ID.328" tvg-chno="1328" tvg-name="MBC 4" tvg-id="1328" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="General",MBC 4
+http://192.168.1.114:34400/stream/b9ba15dc90bfd36873b0e53762b4750a
+#EXTINF:0 channelID="x-ID.329" tvg-chno="1329" tvg-name="MBC Bollywood (1080p) [Geo-blocked]" tvg-id="1329" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="General",MBC Bollywood (1080p) [Geo-blocked]
+http://192.168.1.114:34400/stream/7c2892415a1d3134dcb3a3a2aa903456
+#EXTINF:0 channelID="x-ID.330" tvg-chno="1330" tvg-name="MBC Drama KSA (1080p)" tvg-id="1330" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="General",MBC Drama KSA (1080p)
+http://192.168.1.114:34400/stream/85b5e1651abd13fcfb2f1cd12b771c69
+#EXTINF:0 channelID="x-ID.336" tvg-chno="1336" tvg-name="NHK World Japan (1080p)" tvg-id="1336" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World Japan (1080p)
+http://192.168.1.114:34400/stream/43bd3e7136472b4e1a1172c1f5be35bd
+#EXTINF:0 channelID="x-ID.337" tvg-chno="1337" tvg-name="Nile TV Cinema (576p) [Not 24/7]" tvg-id="1337" tvg-logo="https://i.imgur.com/XAYcgQb.png" group-title="Movies",Nile TV Cinema (576p) [Not 24/7]
+http://192.168.1.114:34400/stream/c149cee5bff4b094d0531ecd90bd2d43
+#EXTINF:0 channelID="x-ID.339" tvg-chno="1339" tvg-name="RT Arabic (1080p) [Geo-blocked]" tvg-id="1339" tvg-logo="https://content.osn.com/logo/channel/cropped/RUS.png" group-title="News",RT Arabic (1080p) [Geo-blocked]
+http://192.168.1.114:34400/stream/5ace6c67379d35c77f3e0327d25f7ac0
+#EXTINF:0 channelID="x-ID.343" tvg-chno="1343" tvg-name="Sky News Arabia (720p) [Not 24/7]" tvg-id="1343" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_News_Arabia_logo.png/512px-Sky_News_Arabia_logo.png" group-title="News",Sky News Arabia (720p) [Not 24/7]
+http://192.168.1.114:34400/stream/e3ae79ed9d6722057445e8319567b171
+#EXTINF:0 channelID="x-ID.347" tvg-chno="1347" tvg-name="UN Web TV (540p)" tvg-id="1347" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="News",UN Web TV (540p)
+http://192.168.1.114:34400/stream/a55a959bef5f9a9f18c3c2dc1d7334cc
+#EXTINF:0 channelID="x-ID.350" tvg-chno="1350" tvg-name="MBC 1 KSA (1080p) [Geo-blocked]" tvg-id="1350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/512px-Mbc1logo.png" group-title="General",MBC 1 KSA (1080p) [Geo-blocked]
+http://192.168.1.114:34400/stream/7b461c0f81ab26bb4b98c4cd446095c7
+#EXTINF:0 channelID="x-ID.354" tvg-chno="1354" tvg-name="MBC 1 KSA (1080p) [Geo-blocked]" tvg-id="1354" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/512px-Mbc1logo.png" group-title="General",MBC 1 KSA (1080p) [Geo-blocked]
+http://192.168.1.114:34400/stream/787cfd64166f9da606d470274c4b1d53
+#EXTINF:0 channelID="x-ID.356" tvg-chno="1356" tvg-name="ABC Houston TX (KTRK-DT1) (720p) [Not 24/7]" tvg-id="1356" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC Houston TX (KTRK-DT1) (720p) [Not 24/7]
+http://192.168.1.114:34400/stream/8a2d303072de20501033ad9efa4dd529
+#EXTINF:0 channelID="x-ID.357" tvg-chno="1357" tvg-name="ABC San Francisco CA (KGO-DT1) (720p)" tvg-id="1357" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC San Francisco CA (KGO-DT1) (720p)
+http://192.168.1.114:34400/stream/60e7a5cc145548126dd4ec4483b0b6ab
+#EXTINF:0 channelID="x-ID.359" tvg-chno="1359" tvg-name="CBS Boston MA (WBZ-DT1) (1080p)" tvg-id="1359" tvg-logo="https://images.pluto.tv/channels/5eb1af2ad345340008fccd1e/colorLogoPNG.png" group-title="News",CBS Boston MA (WBZ-DT1) (1080p)
+http://192.168.1.114:34400/stream/1f3d0a2229b5c840abe865efc9cfcb00
+#EXTINF:0 channelID="x-ID.360" tvg-chno="1360" tvg-name="CBS Sacramento CA (KOVR-DT1) (1080p)" tvg-id="1360" tvg-logo="https://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/colorLogoPNG.png" group-title="News",CBS Sacramento CA (KOVR-DT1) (1080p)
+http://192.168.1.114:34400/stream/be84cf88801e1940fc5a0ff646fd2832
+#EXTINF:0 channelID="x-ID.361" tvg-chno="1361" tvg-name="FOX Atlanta GA (WAGA-DT1) (720p)" tvg-id="1361" tvg-logo="https://i.imgur.com/DcZoeGw.jpg" group-title="News",FOX Atlanta GA (WAGA-DT1) (720p)
+http://192.168.1.114:34400/stream/49626be2931a210120a182ebcaeafb26
+#EXTINF:0 channelID="x-ID.362" tvg-chno="1362" tvg-name="FOX Houston TX (KRIV-DT1) (720p)" tvg-id="1362" tvg-logo="https://i.imgur.com/AZ8MWRp.jpg" group-title="News",FOX Houston TX (KRIV-DT1) (720p)
+http://192.168.1.114:34400/stream/e55701d3bbee55e077b89d02eaf95130
+#EXTINF:0 channelID="x-ID.366" tvg-chno="1366" tvg-name="NBC Orlando FL (WESH-DT1) (720p)" tvg-id="1366" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/512px-NBC_logo_%282013%29.svg.png" group-title="News",NBC Orlando FL (WESH-DT1) (720p)
+http://192.168.1.114:34400/stream/17b1569b4b2638d821036fd8a7a28b56
+#EXTINF:0 channelID="x-ID.367" tvg-chno="1367" tvg-name="NBC Sacramento CA (KCRA-DT1) (720p)" tvg-id="1367" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/512px-NBC_logo_%282013%29.svg.png" group-title="News",NBC Sacramento CA (KCRA-DT1) (720p)
+http://192.168.1.114:34400/stream/abf309e662df0c45c964f67e539c25dd
+#EXTINF:0 channelID="x-ID.373" tvg-chno="1373" tvg-name="Docurama (1080p)" tvg-id="1373" tvg-logo="https://i.imgur.com/5X5Z5eg.png" group-title="Documentary",Docurama (1080p)
+http://192.168.1.114:34400/stream/c8f00a39541a329ff83a1fb4a9ae9186
+#EXTINF:0 channelID="x-ID.377" tvg-chno="1377" tvg-name="Magellan TV (720p)" tvg-id="1377" tvg-logo="https://i.imgur.com/oIy673i.png" group-title="Documentary",Magellan TV (720p)
+http://192.168.1.114:34400/stream/139624fc4f9d9aa04cd3244e8841e1c7
+#EXTINF:0 channelID="x-ID.379" tvg-chno="1379" tvg-name="National Geographic Asia (1080p)" tvg-id="1379" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic Asia (1080p)
+http://192.168.1.114:34400/stream/8d132c667e6b8b7ac38b156648b09a3f
+#EXTINF:0 channelID="x-ID.382" tvg-chno="1382" tvg-name="Pluto TV Documentaries (720p)" tvg-id="1382" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png" group-title="Documentary",Pluto TV Documentaries (720p)
+http://192.168.1.114:34400/stream/a12139db70ab23a1d0a517702aec5bcf
+#EXTINF:0 channelID="x-ID.386" tvg-chno="1386" tvg-name="Reelz Channel (XUMO) (720p)" tvg-id="1386" tvg-logo="https://i.imgur.com/UQjtEqR.png" group-title="Documentary",Reelz Channel (XUMO) (720p)
+http://192.168.1.114:34400/stream/234fb9a81a70d87cb5531b53cee358a4
+#EXTINF:0 channelID="x-ID.389" tvg-chno="1389" tvg-name="Voyager Documentaries (720p)" tvg-id="1389" tvg-logo="https://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="Documentary",Voyager Documentaries (720p)
+http://192.168.1.114:34400/stream/71e514fd56850f619b96d9a339a35768
+#EXTINF:0 channelID="x-ID.390" tvg-chno="1390" tvg-name="24 Hour Free Movies (720p) [Not 24/7]" tvg-id="1390" tvg-logo="https://i.imgur.com/FiTdDp1.png" group-title="Movies",24 Hour Free Movies (720p) [Not 24/7]
+http://192.168.1.114:34400/stream/abbad3a5e63388356334d3c9460abdd8
+#EXTINF:0 channelID="x-ID.394" tvg-chno="1394" tvg-name="FilmRise Free Movies (432p)" tvg-id="1394" tvg-logo="https://i.imgur.com/X7U7ikq.png" group-title="Movies",FilmRise Free Movies (432p)
+http://192.168.1.114:34400/stream/d77ff4485e9812c70a89e32b8bab5ead
+#EXTINF:0 channelID="x-ID.395" tvg-chno="1395" tvg-name="FilmRise Free Movies (Redbox) (720p)" tvg-id="1395" tvg-logo="https://i.imgur.com/X7U7ikq.png" group-title="Movies",FilmRise Free Movies (Redbox) (720p)
+http://192.168.1.114:34400/stream/8d1d481e5fef5c3f65328468f291427e
+#EXTINF:0 channelID="x-ID.396" tvg-chno="1396" tvg-name="Gravitas Movies (720p)" tvg-id="1396" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="Movies",Gravitas Movies (720p)
+http://192.168.1.114:34400/stream/627ac3490d8051b2a8c86250b33c6570
+#EXTINF:0 channelID="x-ID.397" tvg-chno="1397" tvg-name="Hallmark Movies & More (720p)" tvg-id="1397" tvg-logo="https://i.imgur.com/JMn9sxk.png" group-title="Movies",Hallmark Movies & More (720p)
+http://192.168.1.114:34400/stream/3cd10cc9e93f57c7167a95b38c2a5b50
+#EXTINF:0 channelID="x-ID.398" tvg-chno="1398" tvg-name="MovieSphere (1080p)" tvg-id="1398" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Movies",MovieSphere (1080p)
+http://192.168.1.114:34400/stream/e0d44aabdb150b06deb616ae2459fec3
+#EXTINF:0 channelID="x-ID.405" tvg-chno="1405" tvg-name="Xumo Free Movies (720p)" tvg-id="1405" tvg-logo="https://i.imgur.com/Sx10tvQ.png" group-title="Movies",Xumo Free Movies (720p)
+http://192.168.1.114:34400/stream/21cacab3e934dd9fd42b6774b35207a8
+#EXTINF:0 channelID="x-ID.411" tvg-chno="1411" tvg-name="FilmRise Mysteries (XUMO) (432p)" tvg-id="1411" tvg-logo="https://i.imgur.com/FeWgF1h.png" group-title="Series",FilmRise Mysteries (XUMO) (432p)
+http://192.168.1.114:34400/stream/22ca8c3b4169529769515eae2ce4ef82
+#EXTINF:0 channelID="x-ID.532" tvg-chno="1532" tvg-name="ABC Atlanta GA (WSB-DT1) (720p) [Not 24/7]" tvg-id="1532" tvg-logo="https://i.imgur.com/HkY10xX.jpg" group-title="Undefined",ABC Atlanta GA (WSB-DT1) (720p) [Not 24/7]
+http://192.168.1.114:34400/stream/5071d96393c07adf7e663340758a209f
+#EXTINF:0 channelID="x-ID.533" tvg-chno="1533" tvg-name="ABC Boston MA (WCVB-DT1) (720p)" tvg-id="1533" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC Boston MA (WCVB-DT1) (720p)
+http://192.168.1.114:34400/stream/5fddee7d02b7cac2aaaa27e885350bca
+#EXTINF:0 channelID="x-ID.535" tvg-chno="1535" tvg-name="ABC Chicago IL (WLS-DT1) (720p)" tvg-id="1535" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC Chicago IL (WLS-DT1) (720p)
+http://192.168.1.114:34400/stream/3fa98f889f70c20d7f76a0521065a670
+#EXTINF:0 channelID="x-ID.536" tvg-chno="1536" tvg-name="ABC Cleveland OH (WEWS-DT1) (720p)" tvg-id="1536" tvg-logo="https://i.imgur.com/cNyTkS0.png" group-title="Undefined",ABC Cleveland OH (WEWS-DT1) (720p)
+http://192.168.1.114:34400/stream/ff21488e1398f28d7eff66fad16a18ac
+#EXTINF:0 channelID="x-ID.538" tvg-chno="1538" tvg-name="ABC Dallas TX (WFAA-DT1) (720p)" tvg-id="1538" tvg-logo="https://i.imgur.com/0a0FVSv.jpg" group-title="Undefined",ABC Dallas TX (WFAA-DT1) (720p)
+http://192.168.1.114:34400/stream/730fbc5d83d899531c7037decae0906e
+#EXTINF:0 channelID="x-ID.540" tvg-chno="1540" tvg-name="ABC Indianapolis IN (WRTV-DT1) (720p)" tvg-id="1540" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC Indianapolis IN (WRTV-DT1) (720p)
+http://192.168.1.114:34400/stream/656c5fccdb6cc19aa13e772ee535c8d5
+#EXTINF:0 channelID="x-ID.541" tvg-chno="1541" tvg-name="ABC Miami FL (WPLG-DT1) (720p)" tvg-id="1541" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC Miami FL (WPLG-DT1) (720p)
+http://192.168.1.114:34400/stream/c9ed72eca2f8a47c76c03768307e5d10
+#EXTINF:0 channelID="x-ID.544" tvg-chno="1544" tvg-name="ABC Orlando FL (WFTVD-DT1) (720p)" tvg-id="1544" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC Orlando FL (WFTVD-DT1) (720p)
+http://192.168.1.114:34400/stream/3918ec5b00cb065b48ac05d33f8baeab
+#EXTINF:0 channelID="x-ID.545" tvg-chno="1545" tvg-name="ABC Phoenix AZ (KNXV-DT1) (720p)" tvg-id="1545" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/KNXV_Logo.png" group-title="Undefined",ABC Phoenix AZ (KNXV-DT1) (720p)
+http://192.168.1.114:34400/stream/af0c528f3528e3109646184cc702d4ef
+#EXTINF:0 channelID="x-ID.546" tvg-chno="1546" tvg-name="ABC Pittsburgh PA (WTAE-DT1) (720p) [Not 24/7]" tvg-id="1546" tvg-logo="https://i.imgur.com/4iEFQjd.png" group-title="Undefined",ABC Pittsburgh PA (WTAE-DT1) (720p) [Not 24/7]
+http://192.168.1.114:34400/stream/359878ecd00b6508dc4167f1f6093296
+#EXTINF:0 channelID="x-ID.549" tvg-chno="1549" tvg-name="ABC Sacramento CA (KXTV-DT1) (720p)" tvg-id="1549" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC Sacramento CA (KXTV-DT1) (720p)
+http://192.168.1.114:34400/stream/565b030ea951e6ed01e826808dc97160
+#EXTINF:0 channelID="x-ID.550" tvg-chno="1550" tvg-name="ABC San Diego CA (KGTV-DT1) (720p)" tvg-id="1550" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC San Diego CA (KGTV-DT1) (720p)
+http://192.168.1.114:34400/stream/7ee46ffafac05ee50bad11ef0c61725e
+#EXTINF:0 channelID="x-ID.551" tvg-chno="1551" tvg-name="ABC Seattle WA (KOMO-DT1) (720p)" tvg-id="1551" tvg-logo="https://i.imgur.com/8vXRrRe.jpg" group-title="Undefined",ABC Seattle WA (KOMO-DT1) (720p)
+http://192.168.1.114:34400/stream/e73c80cf4c9f0f26d751394abb006128
+#EXTINF:0 channelID="x-ID.552" tvg-chno="1552" tvg-name="ABC Washington DC (WJLA-DT1) (720p)" tvg-id="1552" tvg-logo="https://i.imgur.com/LttuGfq.png" group-title="Undefined",ABC Washington DC (WJLA-DT1) (720p)
+http://192.168.1.114:34400/stream/1d2c4dafeebc4e9bb543c5d3ed3cf9a8
+#EXTINF:0 channelID="x-ID.575" tvg-chno="1575" tvg-name="CBS Altoona PA (WTAJ1) (720p)" tvg-id="1575" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Undefined",CBS Altoona PA (WTAJ1) (720p)
+http://192.168.1.114:34400/stream/d0083a81fcb859f15a318c315c181aff
+#EXTINF:0 channelID="x-ID.576" tvg-chno="1576" tvg-name="CBS Atlanta GA (WGCL-DT1) (720p)" tvg-id="1576" tvg-logo="https://i.imgur.com/XuzRQjy.png" group-title="Undefined",CBS Atlanta GA (WGCL-DT1) (720p)
+http://192.168.1.114:34400/stream/3da3db366e6c6d11af2e144f160e355f
+#EXTINF:0 channelID="x-ID.578" tvg-chno="1578" tvg-name="CBS Chicago IL (WBBM-DT1) (1080p)" tvg-id="1578" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Undefined",CBS Chicago IL (WBBM-DT1) (1080p)
+http://192.168.1.114:34400/stream/4e7d1b63cae43c0731263c3b5ff779fb
+#EXTINF:0 channelID="x-ID.579" tvg-chno="1579" tvg-name="CBS Cleveland OH (WOIO-DT1) (1080p)" tvg-id="1579" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/WOIO_CBS_19_2019.svg/512px-WOIO_CBS_19_2019.svg.png" group-title="Undefined",CBS Cleveland OH (WOIO-DT1) (1080p)
+http://192.168.1.114:34400/stream/438974f780b5acc227d56331c0926aba
+#EXTINF:0 channelID="x-ID.580" tvg-chno="1580" tvg-name="CBS Dallas TX (KTVT-DT1) (1080p)" tvg-id="1580" tvg-logo="https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png" group-title="Undefined",CBS Dallas TX (KTVT-DT1) (1080p)
+http://192.168.1.114:34400/stream/69b69d2144ff78d2b3a472d34335bc35
+#EXTINF:0 channelID="x-ID.582" tvg-chno="1582" tvg-name="CBS Detroit MI (WWJ-DT1) (720p)" tvg-id="1582" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Undefined",CBS Detroit MI (WWJ-DT1) (720p)
+http://192.168.1.114:34400/stream/f35773d220bc827f3a8ab8481a492aee
+#EXTINF:0 channelID="x-ID.583" tvg-chno="1583" tvg-name="CBS Hatford CT (WFSB-DT1) (1080p)" tvg-id="1583" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Undefined",CBS Hatford CT (WFSB-DT1) (1080p)
+http://192.168.1.114:34400/stream/81fc510ce205b780d7dde9cba77a93d9
+#EXTINF:0 channelID="x-ID.584" tvg-chno="1584" tvg-name="CBS Houston TX (KHOU-DT1) (1080p)" tvg-id="1584" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Undefined",CBS Houston TX (KHOU-DT1) (1080p)
+http://192.168.1.114:34400/stream/5d9e11f4f596179aa92db7edca9dc138
+#EXTINF:0 channelID="x-ID.586" tvg-chno="1586" tvg-name="CBS Los Angeles CA (KCBS-DT1) (1080p)" tvg-id="1586" tvg-logo="https://i.imgur.com/RIFC1Y6.jpg" group-title="Undefined",CBS Los Angeles CA (KCBS-DT1) (1080p)
+http://192.168.1.114:34400/stream/8a2603aad7c28a183828f963246f1eb8
+#EXTINF:0 channelID="x-ID.587" tvg-chno="1587" tvg-name="CBS Miami FL (WFOR-DT1) (1080p)" tvg-id="1587" tvg-logo="https://zap2it.tmsimg.com/h5/NowShowing/10098/s10098_h5_aa.png" group-title="Undefined",CBS Miami FL (WFOR-DT1) (1080p)
+http://192.168.1.114:34400/stream/826ea4ee24a5c056e83b28631c79bcb6
+#EXTINF:0 channelID="x-ID.591" tvg-chno="1591" tvg-name="CBS Orlando FL (WKMG-DT1) (1080p)" tvg-id="1591" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Undefined",CBS Orlando FL (WKMG-DT1) (1080p)
+http://192.168.1.114:34400/stream/bbeada2c66780133af5bdc50d206708a
+#EXTINF:0 channelID="x-ID.592" tvg-chno="1592" tvg-name="CBS Phoenix AZ (KPHO-DT1) (1080p)" tvg-id="1592" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Undefined",CBS Phoenix AZ (KPHO-DT1) (1080p)
+http://192.168.1.114:34400/stream/3ee268f497b95ee1771a25ce0b79a784
+#EXTINF:0 channelID="x-ID.593" tvg-chno="1593" tvg-name="CBS Pittsburgh PA (KDKA-DT1) (1080p)" tvg-id="1593" tvg-logo="https://i.imgur.com/IkDUNmq.jpg" group-title="Undefined",CBS Pittsburgh PA (KDKA-DT1) (1080p)
+http://192.168.1.114:34400/stream/c988264d9436cebedc1018c928d75bfb
+#EXTINF:0 channelID="x-ID.594" tvg-chno="1594" tvg-name="CBS San Diego CA (KFMB-DT1) (720p)" tvg-id="1594" tvg-logo="https://i.imgur.com/QJyt4n4.jpg" group-title="Undefined",CBS San Diego CA (KFMB-DT1) (720p)
+http://192.168.1.114:34400/stream/cf9d6e25d5cde75c225c1bae798f7813
+#EXTINF:0 channelID="x-ID.595" tvg-chno="1595" tvg-name="CBS San Francisco CA (KPIX-DT1) (1080p)" tvg-id="1595" tvg-logo="https://i.imgur.com/v1ojdQb.jpg" group-title="Undefined",CBS San Francisco CA (KPIX-DT1) (1080p)
+http://192.168.1.114:34400/stream/bd542afb583e7adc991aa867b3ab6224
+#EXTINF:0 channelID="x-ID.596" tvg-chno="1596" tvg-name="CBS Seattle WA (KIRO-DT1) (1080p)" tvg-id="1596" tvg-logo="https://zap2it.tmsimg.com/h5/NowShowing/10098/s10098_h5_aa.png" group-title="Undefined",CBS Seattle WA (KIRO-DT1) (1080p)
+http://192.168.1.114:34400/stream/eaf18c0b3342562c9d6ad3b2cec34a28
+#EXTINF:0 channelID="x-ID.598" tvg-chno="1598" tvg-name="CBS Washington DC (WUSA-DT1) (1080p)" tvg-id="1598" tvg-logo="https://i.imgur.com/Ekt1an0.png" group-title="Undefined",CBS Washington DC (WUSA-DT1) (1080p)
+http://192.168.1.114:34400/stream/c4698d605042de0b6110ae5c8c7d4cc2
+#EXTINF:0 channelID="x-ID.612" tvg-chno="1612" tvg-name="FOX Boston MA (WAGA-DT1) (720p)" tvg-id="1612" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="Undefined",FOX Boston MA (WAGA-DT1) (720p)
+http://192.168.1.114:34400/stream/b25a7d04cacccbe891cf0545409bb75f
+#EXTINF:0 channelID="x-ID.613" tvg-chno="1613" tvg-name="FOX Chicago IL (WFLD-DT1) (720p)" tvg-id="1613" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",FOX Chicago IL (WFLD-DT1) (720p)
+http://192.168.1.114:34400/stream/1ce3f46126f85b32bd668f85271d76da
+#EXTINF:0 channelID="x-ID.614" tvg-chno="1614" tvg-name="FOX Cleveland OH (WJW-DT1) (540p)" tvg-id="1614" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",FOX Cleveland OH (WJW-DT1) (540p)
+http://192.168.1.114:34400/stream/f7fddaf91c5d820151a88d8f9b540aff
+#EXTINF:0 channelID="x-ID.615" tvg-chno="1615" tvg-name="FOX Dallas TX (KDFW-DT1) (720p)" tvg-id="1615" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",FOX Dallas TX (KDFW-DT1) (720p)
+http://192.168.1.114:34400/stream/b153a2eef50e88e270b4c606b4274189
+#EXTINF:0 channelID="x-ID.617" tvg-chno="1617" tvg-name="FOX Hartford CT (WTIC-DT1) (720p)" tvg-id="1617" tvg-logo="https://i.imgur.com/6QlmS1C.jpg" group-title="Undefined",FOX Hartford CT (WTIC-DT1) (720p)
+http://192.168.1.114:34400/stream/ba6fc00a9c59d3f4ccb2b27f64dc9544
+#EXTINF:0 channelID="x-ID.620" tvg-chno="1620" tvg-name="FOX Los Angeles CA (KTTV-DT1) (720p)" tvg-id="1620" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",FOX Los Angeles CA (KTTV-DT1) (720p)
+http://192.168.1.114:34400/stream/0000d58b9b6d2be59b2952b8867b5abd
+#EXTINF:0 channelID="x-ID.621" tvg-chno="1621" tvg-name="FOX Miami FL (WSVN-DT1) (720p)" tvg-id="1621" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",FOX Miami FL (WSVN-DT1) (720p)
+http://192.168.1.114:34400/stream/372c300bfc4c983ccf18297b1243b88d
+#EXTINF:0 channelID="x-ID.624" tvg-chno="1624" tvg-name="FOX Orlando FL (WOFL-DT1) (720p)" tvg-id="1624" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",FOX Orlando FL (WOFL-DT1) (720p)
+http://192.168.1.114:34400/stream/52cbaa8049f2bbb3ab866319c54dc26d
+#EXTINF:0 channelID="x-ID.625" tvg-chno="1625" tvg-name="FOX Phoenix AZ (KSAZ-DT1) (720p)" tvg-id="1625" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",FOX Phoenix AZ (KSAZ-DT1) (720p)
+http://192.168.1.114:34400/stream/a881a0311e3233df006e5ffa62b91399
+#EXTINF:0 channelID="x-ID.626" tvg-chno="1626" tvg-name="FOX Sacramento CA (KTXL-DT1) (720p)" tvg-id="1626" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",FOX Sacramento CA (KTXL-DT1) (720p)
+http://192.168.1.114:34400/stream/3060c3ef154c5b63d24423437eacd2b0
+#EXTINF:0 channelID="x-ID.627" tvg-chno="1627" tvg-name="FOX San Diego CA (KSWB-DT1) (720p)" tvg-id="1627" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",FOX San Diego CA (KSWB-DT1) (720p)
+http://192.168.1.114:34400/stream/2664c33299e284531d36da5c2bebb127
+#EXTINF:0 channelID="x-ID.628" tvg-chno="1628" tvg-name="FOX San Francisco CA (KTVU-DT1) (720p)" tvg-id="1628" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",FOX San Francisco CA (KTVU-DT1) (720p)
+http://192.168.1.114:34400/stream/fe22ec474b4da3aec4bb84816af01d36
+#EXTINF:0 channelID="x-ID.629" tvg-chno="1629" tvg-name="FOX Seattle WA (KCPQ-DT1) (720p)" tvg-id="1629" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/512px-FOX_wordmark-red.svg.png" group-title="Undefined",FOX Seattle WA (KCPQ-DT1) (720p)
+http://192.168.1.114:34400/stream/17714680c00a991595c12190d2937be9
+#EXTINF:0 channelID="x-ID.630" tvg-chno="1630" tvg-name="FOX Washington DC (WTTG-DT1) (720p)" tvg-id="1630" tvg-logo="https://i.imgur.com/ktLKla7.png" group-title="Undefined",FOX Washington DC (WTTG-DT1) (720p)
+http://192.168.1.114:34400/stream/e47bf351e4037cdb4393989ecba946e3
+#EXTINF:0 channelID="x-ID.647" tvg-chno="1647" tvg-name="KYW-DT1 (CBS 3) (1080p)" tvg-id="1647" tvg-logo="https://i.imgur.com/mXWNQuT.jpg" group-title="Undefined",KYW-DT1 (CBS 3) (1080p)
+http://192.168.1.114:34400/stream/e29912b89d2bfc283d0e8dc022b01b45
+#EXTINF:0 channelID="x-ID.658" tvg-chno="1658" tvg-name="MeTV (WCTV-DT2) Tallahassee FL (480p)" tvg-id="1658" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png" group-title="Undefined",MeTV (WCTV-DT2) Tallahassee FL (480p)
+http://192.168.1.114:34400/stream/0273ad5f5c84efd38ea06f6ad5af4d93
+#EXTINF:0 channelID="x-ID.666" tvg-chno="1666" tvg-name="NBC Altoona PA (WJAC1) (720p)" tvg-id="1666" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/512px-NBC_logo_%282013%29.svg.png" group-title="Undefined",NBC Altoona PA (WJAC1) (720p)
+http://192.168.1.114:34400/stream/3a2fddddc7c642651a929cfd9878c717
+#EXTINF:0 channelID="x-ID.667" tvg-chno="1667" tvg-name="NBC Atlanta GA (WXIA-DT1) (720p) [Not 24/7]" tvg-id="1667" tvg-logo="https://i.imgur.com/yR2o6Dw.jpg" group-title="Undefined",NBC Atlanta GA (WXIA-DT1) (720p) [Not 24/7]
+http://192.168.1.114:34400/stream/7e3407b6029730cdc9fe9d4483ebf3f4
+#EXTINF:0 channelID="x-ID.670" tvg-chno="1670" tvg-name="NBC Chicago IL (WMAQ-DT1) (720p)" tvg-id="1670" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/WMAQ_Logo_2012.png" group-title="Undefined",NBC Chicago IL (WMAQ-DT1) (720p)
+http://192.168.1.114:34400/stream/2c39687199b39c22b0cd58bac8abfd68
+#EXTINF:0 channelID="x-ID.671" tvg-chno="1671" tvg-name="NBC Cleveland OH (WKYC-DT1) (540p)" tvg-id="1671" tvg-logo="https://i.imgur.com/tjlSkyp.jpg" group-title="Undefined",NBC Cleveland OH (WKYC-DT1) (540p)
+http://192.168.1.114:34400/stream/2b3c390d7846c41b8956b45f56d2e670
+#EXTINF:0 channelID="x-ID.672" tvg-chno="1672" tvg-name="NBC Detroit MI (WDIV-DT1) (720p)" tvg-id="1672" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/WDIV-TV_logo_2014.svg/512px-WDIV-TV_logo_2014.svg.png" group-title="Undefined",NBC Detroit MI (WDIV-DT1) (720p)
+http://192.168.1.114:34400/stream/b90e0d6e0516d1f638fdc6fd435341a0
+#EXTINF:0 channelID="x-ID.673" tvg-chno="1673" tvg-name="NBC Hartford CT (WVIT-DT1) (720p)" tvg-id="1673" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/512px-NBC_logo_%282013%29.svg.png" group-title="Undefined",NBC Hartford CT (WVIT-DT1) (720p)
+http://192.168.1.114:34400/stream/3444ac1245bfcbaf3fe017f45d3e31b5
+#EXTINF:0 channelID="x-ID.674" tvg-chno="1674" tvg-name="NBC Houston TX (KPRC-DT1) (720p)" tvg-id="1674" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/512px-NBC_logo_%282013%29.svg.png" group-title="Undefined",NBC Houston TX (KPRC-DT1) (720p)
+http://192.168.1.114:34400/stream/cef9e44ac7a54415292b5c2d96e03527
+#EXTINF:0 channelID="x-ID.675" tvg-chno="1675" tvg-name="NBC Indianapolis IN (WTHR-DT1) (720p)" tvg-id="1675" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/512px-NBC_logo_%282013%29.svg.png" group-title="Undefined",NBC Indianapolis IN (WTHR-DT1) (720p)
+http://192.168.1.114:34400/stream/f9897b3ebfb3d746cf0d821b736b771c
+#EXTINF:0 channelID="x-ID.676" tvg-chno="1676" tvg-name="NBC Los Angeles CA (KNBC-DT1) (720p)" tvg-id="1676" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/512px-NBC_logo_%282013%29.svg.png" group-title="Undefined",NBC Los Angeles CA (KNBC-DT1) (720p)
+http://192.168.1.114:34400/stream/d129e903158915130078c85343637ce0
+#EXTINF:0 channelID="x-ID.677" tvg-chno="1677" tvg-name="NBC Miami FL (WTVJ-DT1) (720p) [Not 24/7]" tvg-id="1677" tvg-logo="https://zap2it.tmsimg.com/assets/s28717_h5_aa.png" group-title="Undefined",NBC Miami FL (WTVJ-DT1) (720p) [Not 24/7]
+http://192.168.1.114:34400/stream/da4032102c43459e7fedf2556b03873c
+#EXTINF:0 channelID="x-ID.680" tvg-chno="1680" tvg-name="NBC Phoenix AZ (KPNX-DT1) (720p) [Not 24/7]" tvg-id="1680" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/512px-NBC_logo_%282013%29.svg.png" group-title="Undefined",NBC Phoenix AZ (KPNX-DT1) (720p) [Not 24/7]
+http://192.168.1.114:34400/stream/fffb681be59e6da05de68c13e2cc879e
+#EXTINF:0 channelID="x-ID.681" tvg-chno="1681" tvg-name="NBC Pittsburgh PA (WPXI-DT1) (720p)" tvg-id="1681" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/512px-NBC_logo_%282013%29.svg.png" group-title="Undefined",NBC Pittsburgh PA (WPXI-DT1) (720p)
+http://192.168.1.114:34400/stream/6befab051603eb1d483a0b0c8f054233
+#EXTINF:0 channelID="x-ID.682" tvg-chno="1682" tvg-name="NBC San Francisco CA (KNTV-DT1) (720p) [Not 24/7]" tvg-id="1682" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/512px-NBC_logo_%282013%29.svg.png" group-title="Undefined",NBC San Francisco CA (KNTV-DT1) (720p) [Not 24/7]
+http://192.168.1.114:34400/stream/729594ad1a5e29ee9eac2e279b153c6d
+#EXTINF:0 channelID="x-ID.683" tvg-chno="1683" tvg-name="NBC Seattle WA (KING-DT1) (720p)" tvg-id="1683" tvg-logo="https://i.imgur.com/aDqnu8Y.jpg" group-title="Undefined",NBC Seattle WA (KING-DT1) (720p)
+http://192.168.1.114:34400/stream/a68289c168330699d4183cc6f1f88bce
+#EXTINF:0 channelID="x-ID.695" tvg-chno="1695" tvg-name="PBS (WPSU-DT1) Altoona PA (720p)" tvg-id="1695" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="Undefined",PBS (WPSU-DT1) Altoona PA (720p)
+http://192.168.1.114:34400/stream/446b2ce4e8f5828a1d8b7e20860b54ac
+#EXTINF:0 channelID="x-ID.841" tvg-chno="1841" tvg-name="The CW (WCWN-DT1) Albamy NY (1080p)" tvg-id="1841" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png" group-title="Undefined",The CW (WCWN-DT1) Albamy NY (1080p)
+http://192.168.1.114:34400/stream/b824e9d3c82c7dee2a7e53b579d26bac
+#EXTINF:0 channelID="x-ID.842" tvg-chno="1842" tvg-name="The CW Altoona PA (WJAC4) (720p)" tvg-id="1842" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png" group-title="Undefined",The CW Altoona PA (WJAC4) (720p)
+http://192.168.1.114:34400/stream/0abb900089c9b7027336bc8fdba52c13
+#EXTINF:0 channelID="x-ID.843" tvg-chno="1843" tvg-name="The CW Los Angeles CA (KTLA-DT1) (720p) [Not 24/7]" tvg-id="1843" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png" group-title="Undefined",The CW Los Angeles CA (KTLA-DT1) (720p) [Not 24/7]
+http://192.168.1.114:34400/stream/2c823b366c9a91ca20ef199cd64b57b8
+#EXTINF:0 channelID="x-ID.853" tvg-chno="1853" tvg-name="Univision San Francisco CA (KDTVDT1) [Geo-blocked] (720p)" tvg-id="1853" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kdtv_san_francisco.png" group-title="Undefined",Univision San Francisco CA (KDTVDT1) [Geo-blocked] (720p)
+http://192.168.1.114:34400/stream/9a6f49635706c96a56a7220ab402e6cf
+#EXTINF:0 channelID="x-ID.856" tvg-chno="1856" tvg-name="WABC-DT1 (ABC 7) (720p)" tvg-id="1856" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",WABC-DT1 (ABC 7) (720p)
+http://192.168.1.114:34400/stream/edd673eaf5df670c28099bd1d2b836bd
+#EXTINF:0 channelID="x-ID.857" tvg-chno="1857" tvg-name="WABC-DT4 (HSN) (432p)" tvg-id="1857" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/512px-HSN_logo.svg.png" group-title="Undefined",WABC-DT4 (HSN) (432p)
+http://192.168.1.114:34400/stream/287e5ffe16b7c8a9a5e25ca597494e3c
+#EXTINF:0 channelID="x-ID.863" tvg-chno="1863" tvg-name="WCAU-DT1 (NBC 10) (1080p)" tvg-id="1863" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/512px-NBC_logo_%282013%29.svg.png" group-title="Undefined",WCAU-DT1 (NBC 10) (1080p)
+http://192.168.1.114:34400/stream/351d403e6033e16f67ac01f51f3cd021
+#EXTINF:0 channelID="x-ID.864" tvg-chno="1864" tvg-name="WCAU-DT2 (COZI TV) (432p)" tvg-id="1864" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png" group-title="Undefined",WCAU-DT2 (COZI TV) (432p)
+http://192.168.1.114:34400/stream/b672a9cd3eb8408b8d81f0cff4c232cd
+#EXTINF:0 channelID="x-ID.865" tvg-chno="1865" tvg-name="WCBS-DT1 (CBS 2) (1080p)" tvg-id="1865" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="Undefined",WCBS-DT1 (CBS 2) (1080p)
+http://192.168.1.114:34400/stream/024a46dd61acf6b5d85db5b502bd8a9a
+#EXTINF:0 channelID="x-ID.866" tvg-chno="1866" tvg-name="WCBS-DT2 (Start TV)" tvg-id="1866" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/512px-Start_TV_logo.svg.png" group-title="Undefined",WCBS-DT2 (Start TV)
+http://192.168.1.114:34400/stream/6d2f61009318716c85b1d99727ba517b
+#EXTINF:0 channelID="x-ID.867" tvg-chno="1867" tvg-name="WCBS-DT3 (Dabl)" tvg-id="1867" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dabl_logo.svg/512px-Dabl_logo.svg.png" group-title="Undefined",WCBS-DT3 (Dabl)
+http://192.168.1.114:34400/stream/2fe8862361c8241b89e1c4dccf36e07e
+#EXTINF:0 channelID="x-ID.868" tvg-chno="1868" tvg-name="WCBS-DT4 (FaveTV)" tvg-id="1868" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/Logo_of_Fave_TV.png" group-title="Undefined",WCBS-DT4 (FaveTV)
+http://192.168.1.114:34400/stream/a1f97679dbe664bc4143d9b8c0fa0059
+#EXTINF:0 channelID="x-ID.869" tvg-chno="1869" tvg-name="WDPN-DT2 (Grit) (432p)" tvg-id="1869" tvg-logo="https://i.imgur.com/6w1Wj3j.png" group-title="Undefined",WDPN-DT2 (Grit) (432p)
+http://192.168.1.114:34400/stream/8c1e1192610d9a1adce2134e3d7d26f4
+#EXTINF:0 channelID="x-ID.870" tvg-chno="1870" tvg-name="WDPN-DT5 (Retro TV) (432p)" tvg-id="1870" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="Undefined",WDPN-DT5 (Retro TV) (432p)
+http://192.168.1.114:34400/stream/06cb164ca52abc2dd158fda0bca5e34c
+#EXTINF:0 channelID="x-ID.871" tvg-chno="1871" tvg-name="WFMZ-DT1 (720p)" tvg-id="1871" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WFMZ.png" group-title="Undefined",WFMZ-DT1 (720p)
+http://192.168.1.114:34400/stream/bf8b215532933dc381f60870761673e6
+#EXTINF:0 channelID="x-ID.872" tvg-chno="1872" tvg-name="WFUT-DT1 (Unimas Nueva York)" tvg-id="1872" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="Undefined",WFUT-DT1 (Unimas Nueva York)
+http://192.168.1.114:34400/stream/ce9086db7de07fb150b6b8ee38c99601
+#EXTINF:0 channelID="x-ID.873" tvg-chno="1873" tvg-name="WGN Chicago IL (WGN-TV1) (720p)" tvg-id="1873" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/512px-WGN_9_logo.svg.png" group-title="Undefined",WGN Chicago IL (WGN-TV1) (720p)
+http://192.168.1.114:34400/stream/6d505ed0a4a1151ba4f3ac8a16d12e80
+#EXTINF:0 channelID="x-ID.875" tvg-chno="1875" tvg-name="WHYY-DT2 (Y2) (432p)" tvg-id="1875" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="Undefined",WHYY-DT2 (Y2) (432p)
+http://192.168.1.114:34400/stream/7a1f44e390daf2f33d40957c8d262e37
+#EXTINF:0 channelID="x-ID.877" tvg-chno="1877" tvg-name="WJLP-DT1 (MeTV New York)" tvg-id="1877" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/WJLP_New_York_Logo.png/512px-WJLP_New_York_Logo.png" group-title="Undefined",WJLP-DT1 (MeTV New York)
+http://192.168.1.114:34400/stream/d72d76cb8da6ba5734c1bdb09ead7204
+#EXTINF:0 channelID="x-ID.878" tvg-chno="1878" tvg-name="WJLP-DT2 (Laff)" tvg-id="1878" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Undefined",WJLP-DT2 (Laff)
+http://192.168.1.114:34400/stream/3a09b5b303e33c20beb71b49836c8f86
+#EXTINF:0 channelID="x-ID.879" tvg-chno="1879" tvg-name="WJLP-DT3 (Grit)" tvg-id="1879" tvg-logo="https://i.imgur.com/6w1Wj3j.png" group-title="Undefined",WJLP-DT3 (Grit)
+http://192.168.1.114:34400/stream/595f2dafd25746137138709f19896605
+#EXTINF:0 channelID="x-ID.880" tvg-chno="1880" tvg-name="WJLP-DT4 (Ion Mystery)" tvg-id="1880" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png" group-title="Undefined",WJLP-DT4 (Ion Mystery)
+http://192.168.1.114:34400/stream/bf9c9c1adcbbf85e1931f53eb6dcc2ae
+#EXTINF:0 channelID="x-ID.881" tvg-chno="1881" tvg-name="WJLP-DT5 (Retro TV)" tvg-id="1881" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="Undefined",WJLP-DT5 (Retro TV)
+http://192.168.1.114:34400/stream/2d1f3f2bf16f5dc422b2889191fd2200
+#EXTINF:0 channelID="x-ID.882" tvg-chno="1882" tvg-name="WJLP-DT6 (Heartland)" tvg-id="1882" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png" group-title="Undefined",WJLP-DT6 (Heartland)
+http://192.168.1.114:34400/stream/89305283bda12599780bc9f072970f3d
+#EXTINF:0 channelID="x-ID.883" tvg-chno="1883" tvg-name="WJLP-DT7 (Story Television)" tvg-id="1883" tvg-logo="https://tvtv.us/gn/i/assets/s122968_ll_h15_aa.png?w=180&h=135" group-title="Undefined",WJLP-DT7 (Story Television)
+http://192.168.1.114:34400/stream/2d4128cbe4e70ca98c44d2688b74dbdd
+#EXTINF:0 channelID="x-ID.884" tvg-chno="1884" tvg-name="WKOB-LD1 (Azteca America 42) (720p) [Not 24/7]" tvg-id="1884" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Azteca_America_2011_logo.png" group-title="Undefined",WKOB-LD1 (Azteca America 42) (720p) [Not 24/7]
+http://192.168.1.114:34400/stream/d195a251d3554257696e05f2d837b5f8
+#EXTINF:0 channelID="x-ID.885" tvg-chno="1885" tvg-name="WKOB-LD2 (Daystar) (480p) [Not 24/7]" tvg-id="1885" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Daystar_TV.PNG/512px-Daystar_TV.PNG" group-title="Undefined",WKOB-LD2 (Daystar) (480p) [Not 24/7]
+http://192.168.1.114:34400/stream/c4dfd1fe962f7165430250af17e4adcd
+#EXTINF:0 channelID="x-ID.886" tvg-chno="1886" tvg-name="WKOB-LD5 (SonLife) (480p) [Not 24/7]" tvg-id="1886" tvg-logo="https://i.imgur.com/JfRqVn6.png" group-title="Undefined",WKOB-LD5 (SonLife) (480p) [Not 24/7]
+http://192.168.1.114:34400/stream/8280310e73fd678de796b9010c01431c
+#EXTINF:0 channelID="x-ID.887" tvg-chno="1887" tvg-name="WKOB-LD6 (Estrella TV) (480p)" tvg-id="1887" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Estrella_TV_2020_Logo.svg/512px-Estrella_TV_2020_Logo.svg.png" group-title="Undefined",WKOB-LD6 (Estrella TV) (480p)
+http://192.168.1.114:34400/stream/3f9815f45299b4c24db17fc12e456870
+#EXTINF:0 channelID="x-ID.888" tvg-chno="1888" tvg-name="WKOB-LD7 (ShopLC) (480p) [Not 24/7]" tvg-id="1888" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_of_Liquidation_Channel.svg/512px-Logo_of_Liquidation_Channel.svg.png" group-title="Undefined",WKOB-LD7 (ShopLC) (480p) [Not 24/7]
+http://192.168.1.114:34400/stream/41a3d4e5aea2fae3a0180aa410e59300
+#EXTINF:0 channelID="x-ID.890" tvg-chno="1890" tvg-name="WLIW-DT1 (PBS WLIW) (1080p)" tvg-id="1890" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="Undefined",WLIW-DT1 (PBS WLIW) (1080p)
+http://192.168.1.114:34400/stream/bb3bced7cb87e550cb56f30ea4b59ccb
+#EXTINF:0 channelID="x-ID.891" tvg-chno="1891" tvg-name="WLIW-DT2 (Create TV) (432p)" tvg-id="1891" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/512px-Create_TV_network_logo.svg.png" group-title="Undefined",WLIW-DT2 (Create TV) (432p)
+http://192.168.1.114:34400/stream/e296083e573d5d01bfabb6023b8b34ad
+#EXTINF:0 channelID="x-ID.892" tvg-chno="1892" tvg-name="WLIW-DT3 (World) (432p)" tvg-id="1892" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png" group-title="Undefined",WLIW-DT3 (World) (432p)
+http://192.168.1.114:34400/stream/f78a84d2100974c13d089f8bd0af164b
+#EXTINF:0 channelID="x-ID.893" tvg-chno="1893" tvg-name="WLIW-DT4 (All Arts) (1080p)" tvg-id="1893" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/all-arts.png" group-title="Undefined",WLIW-DT4 (All Arts) (1080p)
+http://192.168.1.114:34400/stream/04cce3a741a8b19d009aeca6ecca3897
+#EXTINF:0 channelID="x-ID.895" tvg-chno="1895" tvg-name="WMBQ-LD (FNX) (432p)" tvg-id="1895" tvg-logo="https://tvtv.us/gn/i/assets/s82462_ll_h9_aa.png?w=180&h=135" group-title="Undefined",WMBQ-LD (FNX) (432p)
+http://192.168.1.114:34400/stream/8515dd8e986742f3da3bcd1c4f5e44e9
+#EXTINF:0 channelID="x-ID.897" tvg-chno="1897" tvg-name="WNBC-DT1 (NBC 4) (1080p) [Not 24/7]" tvg-id="1897" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/us-local/nbc-4-wnbc-us.png" group-title="Undefined",WNBC-DT1 (NBC 4) (1080p) [Not 24/7]
+http://192.168.1.114:34400/stream/116c3811318f9079a9d1879d62dbd9f5
+#EXTINF:0 channelID="x-ID.898" tvg-chno="1898" tvg-name="WNBC-DT2 (COZI TV) (432p)" tvg-id="1898" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png" group-title="Undefined",WNBC-DT2 (COZI TV) (432p)
+http://192.168.1.114:34400/stream/6c96c0d48134bf7e58d9a1eb1d6416f1
+#EXTINF:0 channelID="x-ID.899" tvg-chno="1899" tvg-name="WNET-DT1 (PBS THIRTEEN) (1080p)" tvg-id="1899" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="Undefined",WNET-DT1 (PBS THIRTEEN) (1080p)
+http://192.168.1.114:34400/stream/dae424048b6f757a95bb97f9635dbfe7
+#EXTINF:0 channelID="x-ID.900" tvg-chno="1900" tvg-name="WNET-DT2 (PBS KIDS) (720p)" tvg-id="1900" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/512px-PBS_Kids_Logo.svg.png" group-title="Undefined",WNET-DT2 (PBS KIDS) (720p)
+http://192.168.1.114:34400/stream/fdf02801836572db54f6fd2fc8fd4260
+#EXTINF:0 channelID="x-ID.902" tvg-chno="1902" tvg-name="WNJU-DT1 (Telemundo 47)" tvg-id="1902" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Undefined",WNJU-DT1 (Telemundo 47)
+http://192.168.1.114:34400/stream/904ac98ad44bb27c3724aa9c21d788fa
+#EXTINF:0 channelID="x-ID.903" tvg-chno="1903" tvg-name="WNJU-DT2 (teleXitos) (432p)" tvg-id="1903" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png" group-title="Undefined",WNJU-DT2 (teleXitos) (432p)
+http://192.168.1.114:34400/stream/71b2eb575915f80faa5902fd59981764
+#EXTINF:0 channelID="x-ID.904" tvg-chno="1904" tvg-name="WNYE-DT1 (NYC Life) (1080p)" tvg-id="1904" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/NYCTV_Life_logo.png/512px-NYCTV_Life_logo.png" group-title="Undefined",WNYE-DT1 (NYC Life) (1080p)
+http://192.168.1.114:34400/stream/97bf8fb751fa6ea6bd0c5e0d2d0a947d
+#EXTINF:0 channelID="x-ID.905" tvg-chno="1905" tvg-name="WNYE-DT2 (NYC Gov) (432p)" tvg-id="1905" tvg-logo="https://i.imgur.com/8MjnrkZ.png" group-title="Undefined",WNYE-DT2 (NYC Gov) (432p)
+http://192.168.1.114:34400/stream/809f0799dc98c512925d1626b63629af
+#EXTINF:0 channelID="x-ID.906" tvg-chno="1906" tvg-name="WNYE-DT3 (CUNY TV) (1080p)" tvg-id="1906" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/CUNY_TV_Logo_2017.jpg/512px-CUNY_TV_Logo_2017.jpg" group-title="Undefined",WNYE-DT3 (CUNY TV) (1080p)
+http://192.168.1.114:34400/stream/08b946f51d8a3a622ba998c915b221f8
+#EXTINF:0 channelID="x-ID.907" tvg-chno="1907" tvg-name="WNYW-DT1 (FOX 5) (720p)" tvg-id="1907" tvg-logo="https://i.imgur.com/zZd9Tkt.png" group-title="Undefined",WNYW-DT1 (FOX 5) (720p)
+http://192.168.1.114:34400/stream/560aeab91b06d3ecfc3d12071c38cf36
+#EXTINF:0 channelID="x-ID.908" tvg-chno="1908" tvg-name="WNYW-DT2 (Movies!)" tvg-id="1908" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Movies%21_logo.svg/512px-Movies%21_logo.svg.png" group-title="Undefined",WNYW-DT2 (Movies!)
+http://192.168.1.114:34400/stream/32666636a13666809746b1def3ac9b33
+#EXTINF:0 channelID="x-ID.909" tvg-chno="1909" tvg-name="WNYW-DT3 (FOX Weather)" tvg-id="1909" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png" group-title="Undefined",WNYW-DT3 (FOX Weather)
+http://192.168.1.114:34400/stream/d1fd7891ebd470c9b0782695b54715e7
+#EXTINF:0 channelID="x-ID.910" tvg-chno="1910" tvg-name="WNYW-DT4 (The Grio)" tvg-id="1910" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/The_Grio_logo.png" group-title="Undefined",WNYW-DT4 (The Grio)
+http://192.168.1.114:34400/stream/40a1f0350360c0dad9dba5ccc029e186
+#EXTINF:0 channelID="x-ID.911" tvg-chno="1911" tvg-name="WNYW-DT5 (Decades)" tvg-id="1911" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Decades_Logo.svg/512px-Decades_Logo.svg.png" group-title="Undefined",WNYW-DT5 (Decades)
+http://192.168.1.114:34400/stream/85b842d44427f24efb89cb867d5613af
+#EXTINF:0 channelID="x-ID.912" tvg-chno="1912" tvg-name="WPHL-DT1 (PHL17) (720p)" tvg-id="1912" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/WPHL-TV_logo.svg/512px-WPHL-TV_logo.svg.png" group-title="Undefined",WPHL-DT1 (PHL17) (720p)
+http://192.168.1.114:34400/stream/92b24fa8973107b498bf4eca9b1caa9b
+#EXTINF:0 channelID="x-ID.913" tvg-chno="1913" tvg-name="WPHL-DT2 (Antenna TV) (480p)" tvg-id="1913" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/512px-Antenna_TV_logo.svg.png" group-title="Undefined",WPHL-DT2 (Antenna TV) (480p)
+http://192.168.1.114:34400/stream/cb5a2ed571c00cb1536285ba6f3bc70c
+#EXTINF:0 channelID="x-ID.914" tvg-chno="1914" tvg-name="WPIX-DT1 (PIX 11)" tvg-id="1914" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png" group-title="Undefined",WPIX-DT1 (PIX 11)
+http://192.168.1.114:34400/stream/fbb1d8f2ce96adb4926bf1dfb9428d69
+#EXTINF:0 channelID="x-ID.915" tvg-chno="1915" tvg-name="WPIX-DT4 (Rewind TV) (480p)" tvg-id="1915" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Rewind_TV_logo.png/512px-Rewind_TV_logo.png" group-title="Undefined",WPIX-DT4 (Rewind TV) (480p)
+http://192.168.1.114:34400/stream/2a60741e13272cf89ae2b62bea7d4a46
+#EXTINF:0 channelID="x-ID.916" tvg-chno="1916" tvg-name="WPPX-DT4 (TrueReal) (480p)" tvg-id="1916" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png" group-title="Undefined",WPPX-DT4 (TrueReal) (480p)
+http://192.168.1.114:34400/stream/e8932d5ea52bd3316225fed58e7986c4
+#EXTINF:0 channelID="x-ID.917" tvg-chno="1917" tvg-name="WPPX-DT5 (Laff) (432p)" tvg-id="1917" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Undefined",WPPX-DT5 (Laff) (432p)
+http://192.168.1.114:34400/stream/aa1f986c6316e877618000a36f3ddbbd
+#EXTINF:0 channelID="x-ID.918" tvg-chno="1918" tvg-name="WPXN-DT1 (Ion East)" tvg-id="1918" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Undefined",WPXN-DT1 (Ion East)
+http://192.168.1.114:34400/stream/404e8e35527b32d28fa51416b088baa5
+#EXTINF:0 channelID="x-ID.919" tvg-chno="1919" tvg-name="WPXN-DT2 (Bounce HD)" tvg-id="1919" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png" group-title="Undefined",WPXN-DT2 (Bounce HD)
+http://192.168.1.114:34400/stream/6fe8fc6e281d84c4cde7c922313da87b
+#EXTINF:0 channelID="x-ID.920" tvg-chno="1920" tvg-name="WPXN-DT3 (ION Mystery)" tvg-id="1920" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png" group-title="Undefined",WPXN-DT3 (ION Mystery)
+http://192.168.1.114:34400/stream/9af32d0b77667005d4f2906f89abd2c7
+#EXTINF:0 channelID="x-ID.921" tvg-chno="1921" tvg-name="WPXN-DT5 (Laff)" tvg-id="1921" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Undefined",WPXN-DT5 (Laff)
+http://192.168.1.114:34400/stream/079774fc3a4db279b12d5fe1e372917f
+#EXTINF:0 channelID="x-ID.922" tvg-chno="1922" tvg-name="WPXN-DT6 (True Real)" tvg-id="1922" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/TrueReal_logo.png" group-title="Undefined",WPXN-DT6 (True Real)
+http://192.168.1.114:34400/stream/3e1be0d5a50c9e7d373d32f5c6aa248f
+#EXTINF:0 channelID="x-ID.923" tvg-chno="1923" tvg-name="WRNN-DT1 (ShopLC) (720p)" tvg-id="1923" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/WRNN-TV_RNN_logo.png/512px-WRNN-TV_RNN_logo.png" group-title="Undefined",WRNN-DT1 (ShopLC) (720p)
+http://192.168.1.114:34400/stream/531355821bff1fe952816fbe0be51f5c
+#EXTINF:0 channelID="x-ID.929" tvg-chno="1929" tvg-name="WTXF-DT1 (FOX 29) (720p)" tvg-id="1929" tvg-logo="https://i.imgur.com/fRjmk5r.png" group-title="Undefined",WTXF-DT1 (FOX 29) (720p)
+http://192.168.1.114:34400/stream/396c64615e72076448124272a864d4ac
+#EXTINF:0 channelID="x-ID.930" tvg-chno="1930" tvg-name="WWOR-DT1 (my9)" tvg-id="1930" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png" group-title="Undefined",WWOR-DT1 (my9)
+http://192.168.1.114:34400/stream/fc36299dc822c6bbacf297fadd877ab8
+#EXTINF:0 channelID="x-ID.931" tvg-chno="1931" tvg-name="WWOR-DT3 (Heroes & Icons)" tvg-id="1931" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png" group-title="Undefined",WWOR-DT3 (Heroes & Icons)
+http://192.168.1.114:34400/stream/2c7f750e2a02bf5fd3bf1a7c6d4896f4
+#EXTINF:0 channelID="x-ID.932" tvg-chno="1932" tvg-name="WWSI-DT2 (teleXitos) (432p)" tvg-id="1932" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png" group-title="Undefined",WWSI-DT2 (teleXitos) (432p)
+http://192.168.1.114:34400/stream/66e028178e07c0f664f10d298fbac457
+#EXTINF:0 channelID="x-ID.933" tvg-chno="1933" tvg-name="WXTV-DT1 (Univision 41)" tvg-id="1933" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wxtv_univision41_new_york.png" group-title="Undefined",WXTV-DT1 (Univision 41)
+http://192.168.1.114:34400/stream/394c119a3e5c40504cc9677d4ea9d69a
+#EXTINF:0 channelID="x-ID.934" tvg-chno="1934" tvg-name="WXTV-DT2 (Bounce TV)" tvg-id="1934" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png" group-title="Undefined",WXTV-DT2 (Bounce TV)
+http://192.168.1.114:34400/stream/83febccef404936c62b0844ad07bd3dd
+#EXTINF:0 channelID="x-ID.935" tvg-chno="1935" tvg-name="WXTV-DT3 (Twist)" tvg-id="1935" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Twist_logo.svg/512px-Twist_logo.svg.png" group-title="Undefined",WXTV-DT3 (Twist)
+http://192.168.1.114:34400/stream/272f25de47228200dd5b81ddf056017d
+#EXTINF:0 channelID="x-ID.948" tvg-chno="1948" tvg-name="BUZZR" tvg-id="1948" tvg-logo="" group-title="Undefined",BUZZR
+http://192.168.1.114:34400/stream/b3c8d5038f7174d253a72039357c16c7
+#EXTINF:0 channelID="x-ID.949" tvg-chno="1949" tvg-name="BUZZR" tvg-id="1949" tvg-logo="" group-title="Undefined",BUZZR
+http://192.168.1.114:34400/stream/23c537aa450fe25c1c02e1dc6ebcd2b7
+#EXTINF:0 channelID="x-ID.950" tvg-chno="1950" tvg-name="BUZZR (S)" tvg-id="1950" tvg-logo="" group-title="Undefined",BUZZR (S)
+http://192.168.1.114:34400/stream/2aff02e7c365ab18b5b78aeac6968f90
+#EXTINF:0 channelID="x-ID.993" tvg-chno="1993" tvg-name="Bravo" tvg-id="1993" tvg-logo="" group-title="Undefined",Bravo
+http://192.168.1.114:34400/stream/4a0dca454b4579f3b1ca66025e07dccb
+#EXTINF:0 channelID="x-ID.994" tvg-chno="1994" tvg-name="Bravo HD" tvg-id="1994" tvg-logo="" group-title="Undefined",Bravo HD
+http://192.168.1.114:34400/stream/9a5a0097701a830adb1e215c4c436358
+#EXTINF:0 channelID="x-ID.995" tvg-chno="1995" tvg-name="Bravo SD" tvg-id="1995" tvg-logo="" group-title="Undefined",Bravo SD
+http://192.168.1.114:34400/stream/bc056e2661d36b27e3226ae8a91df847
+#EXTINF:0 channelID="x-ID.999" tvg-chno="1999" tvg-name="Buzzr" tvg-id="1999" tvg-logo="" group-title="Undefined",Buzzr
+http://192.168.1.114:34400/stream/06894422c8e3f87b9cf537e6eddfb2b4
+#EXTINF:0 channelID="x-ID.1000" tvg-chno="2000" tvg-name="Buzzr" tvg-id="2000" tvg-logo="" group-title="Undefined",Buzzr
+http://192.168.1.114:34400/stream/e856f2d3f925ae022f4b8b1f69e67860
+#EXTINF:0 channelID="x-ID.1001" tvg-chno="2001" tvg-name="Buzzr,US | Buzzr" tvg-id="2001" tvg-logo="https://i.imgur.com/CP05YX0.jpg" group-title="Undefined",Buzzr,US | Buzzr
+http://192.168.1.114:34400/stream/bb54dcd9b6b4418a4199574f238581ad
+#EXTINF:0 channelID="x-ID.1025" tvg-chno="2025" tvg-name="Sada Elbalad (720p) [Not 24/7]" tvg-id="2025" tvg-logo="https://i.imgur.com/jji89E5.png" group-title="Undefined",Sada Elbalad (720p) [Not 24/7]
+http://192.168.1.114:34400/stream/75cbf436fa8a84f95876344eafbefebb
+#EXTINF:0 channelID="x-ID.1028" tvg-chno="2028" tvg-name="Ten TV (720p) [Not 24/7]" tvg-id="2028" tvg-logo="https://i.imgur.com/uVKQTPH.png" group-title="Undefined",Ten TV (720p) [Not 24/7]
+http://192.168.1.114:34400/stream/9590dd6e6d5a8224f59f2315245c71a2
+#EXTINF:0 channelID="x-ID.1272" tvg-chno="2272" tvg-name="Pluto TV Telefe Noticias (480p) [Not 24/7]" tvg-id="2272" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="News",Pluto TV Telefe Noticias (480p) [Not 24/7]
+http://192.168.1.114:34400/stream/c1e69d751eb5e38442be2ae47e518bd1
